@@ -38,6 +38,7 @@ h1 {
   background-color: grey;
   color: white;
   padding: 20px;
+  border: #888;
   text-align: center;
 }
 
@@ -50,7 +51,8 @@ h2 {
 p {
   padding-left: 20px;
   margin-bottom: 30px;
-  width: 500px;
+  width: 300px;
+  border-radius: 20%;
 }
 
 li {
